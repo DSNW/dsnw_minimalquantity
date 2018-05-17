@@ -1,0 +1,20 @@
+{
+    "name": "dsnw/module-minimalquantity",
+    "description": "",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Digital Studio NW"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DSNW\\MinimalQuantity\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
